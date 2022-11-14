@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android TP2 - Favorite Picker</string>
+
+    <string name="btnFavoritePkmn_text">Favorite Pokémon</string>
+    <string name="btnFavoriteColor_text">Favorite Color</string>
+    <string name="btnFavoriteContact_text">Favorite Contact</string>
+    <string name="colorpicker_title">Color Picker</string>
+</resources>
