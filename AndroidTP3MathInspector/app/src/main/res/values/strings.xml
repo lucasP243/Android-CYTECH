@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AndroidTP3MathInspector</string>
+
+    <string name="keyboard_1" translatable="false">1</string>
+    <string name="keyboard_2" translatable="false">2</string>
+    <string name="keyboard_3" translatable="false">3</string>
+    <string name="keyboard_4" translatable="false">4</string>
+    <string name="keyboard_5" translatable="false">5</string>
+    <string name="keyboard_6" translatable="false">6</string>
+    <string name="keyboard_7" translatable="false">7</string>
+    <string name="keyboard_8" translatable="false">8</string>
+    <string name="keyboard_9" translatable="false">9</string>
+    <string name="keyboard_0" translatable="false">0</string>
+    <string name="keyboard_ret" translatable="false">&lt;&lt;</string>
+    <string name="keyboard_clr" translatable="false">C</string>
+
+    <string name="action_userinput_default" translatable="false">0</string>
+    <string name="action_check">Multiple of %d?</string>
+    <string name="action_userguide">User guide</string>
+
+    <string name="userguide_text" translatable="false">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac risus dignissim, laoreet tellus sed, viverra lectus. Nam ornare lorem a tempor gravida. Nulla tincidunt, arcu et ullamcorper congue, augue neque maximus nisi, vel posuere nibh felis vel orci. Vestibulum vel mauris eget velit venenatis euismod at eu nisi. Etiam tincidunt dapibus maximus. Vivamus eu odio dignissim, dapibus orci a, accumsan nibh. Vestibulum placerat quis leo sed eleifend. Sed ultricies a nisi sed pulvinar.  Sed at diam molestie, consectetur dolor eget, viverra purus. Aliquam maximus aliquam tortor, ut vulputate quam consequat vel. Suspendisse eros felis, ornare sit amet est a, euismod mollis justo. Praesent euismod hendrerit magna, nec ultricies elit accumsan ut. Proin rhoncus sit amet nisi vel ullamcorper. Maecenas rhoncus urna orci, in laoreet odio scelerisque non. Morbi lobortis dolor sem, a sagittis ligula iaculis fermentum. Etiam mattis magna at placerat euismod. Quisque aliquam, risus facilisis vehicula maximus, metus dui ultricies risus, sed malesuada mauris sem a metus. Aliquam scelerisque libero neque.  Sed non velit odio. Pellentesque dictum luctus hendrerit. Donec sollicitudin in magna nec ullamcorper. Ut sollicitudin justo ac risus elementum venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi volutpat libero non leo suscipit lacinia. Mauris in ultricies erat. Maecenas non congue libero, nec efficitur ipsum. Aenean rhoncus arcu ut elementum tristique. Nunc feugiat tempus nisl in cursus. Donec tempor mattis metus at luctus. Etiam viverra sem urna, id suscipit erat lacinia eget. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam eu mauris urna.  Duis gravida aliquet tellus semper porttitor. Donec eleifend posuere congue. Vestibulum fermentum risus justo, et tincidunt dui congue at. Sed cursus, odio sit amet tempor interdum, leo ligula dictum dui, vitae euismod lorem tellus at mi. Etiam blandit diam ante, id tristique nulla sagittis a. Aliquam erat volutpat. In hac habitasse platea dictumst. Nullam dolor orci, elementum in cursus non, rhoncus facilisis arcu. Nulla sed odio non orci iaculis tincidunt non in libero.
+    </string>
+
+    <string name="about">About</string>
+    <string name="about_text">Developed by Lucas Pinard</string>
+    <string name="about_close">Close</string>
+    <string name="check_true">%d is a multiple of %d</string>
+    <string name="check_false">%d is not a multiple of %d</string>
+</resources>

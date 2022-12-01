@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidTP3MathInspector</string>
+    <string name="action_check">Multiple de %d?</string>
+    <string name="action_userguide">Guide utilisateur</string>
+    <string name="about">A propos</string>
+    <string name="about_text">Developpé par Lucas Pinard</string>
+    <string name="about_close">Fermer</string>
+    <string name="check_true">%d est un multiple de %d</string>
+    <string name="check_false">%d n\'est pas un multiple de %d</string>
+</resources>

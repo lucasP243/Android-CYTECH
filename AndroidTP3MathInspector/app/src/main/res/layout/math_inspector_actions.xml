@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:orientation="vertical"
+    tools:context=".MathInspectorFragment">
+
+    <TextView
+        android:id="@+id/user_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/action_userinput_default"
+        android:textAlignment="textEnd" />
+
+    <Button
+        android:id="@+id/btn_check"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/action_check" />
+
+    <Button
+        android:id="@+id/btn_userguide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/action_userguide" />
+</LinearLayout>
