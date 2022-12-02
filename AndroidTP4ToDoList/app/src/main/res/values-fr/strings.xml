@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android TP4 - ToDoList</string>
+    <string name="menu_edit_name">Changer le nom</string>
+    <string name="menu_title_named">Tâches de %s</string>
+    <string name="menu_title_default">Vos tâches</string>
+    <string name="dialog_menu_title">Quel est votre nom?</string>
+    <string name="dialog_confirm">Confirmer</string>
+    <string name="joblist_addjob">Ajouter une tâche</string>
+    <string name="dialog_placeholder">Ecrivez ici</string>
+    <string name="dialog_addjob_title">Ajouter une tâche</string>
+</resources>

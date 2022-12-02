@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android TP4 - ToDoList</string>
+
+    <!-- main activity menu -->
+    <string name="menu_edit_name">Edit name</string>
+    <string name="menu_title_named">%s\'s jobs</string>
+    <string name="menu_title_default">Your jobs</string>
+
+    <!-- main activity menu dialog -->
+    <string name="dialog_menu_title">What is your name?</string>
+    <string name="dialog_placeholder">Type here</string>
+    <string name="dialog_confirm">@android:string/ok</string>
+    <string name="joblist_addjob">Add a job</string>
+    <string name="dialog_addjob_title">Add a job</string>
+
+</resources>
