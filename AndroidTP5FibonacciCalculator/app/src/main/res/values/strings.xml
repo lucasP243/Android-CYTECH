@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Android TP5 - FibonacciCalculator</string>
+    <string name="title_subtitle">The ultimate</string>
+    <string name="title_title">Fibonacci calculator</string>
+
+    <string name="input_hint">Input a number:</string>
+
+    <string name="operation_label">Choose your method</string>
+    <string name="operation_java">Android Java</string>
+    <string name="operation_kotlin">Android Kotlin</string>
+    <string name="operation_clib">JNI C Library</string>
+    <string name="operation_webservice">Webservice</string>
+
+    <string name="operation_result">Result: %s</string>
+    <string name="operation_time">Computing time: %sms</string>
+</resources>

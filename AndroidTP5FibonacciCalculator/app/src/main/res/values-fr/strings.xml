@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_subtitle">L\'ultime</string>
+    <string name="title_title">Calculatrice Fibonacci</string>
+
+    <string name="input_hint">Entrez un nombre :</string>
+
+    <string name="operation_label">Choisissez votre méthode</string>
+    <string name="operation_java">Java Android</string>
+    <string name="operation_kotlin">Kotlin Android</string>
+    <string name="operation_clib">Librairie C JNI</string>
+    <string name="operation_webservice">Webservice</string>
+
+    <string name="operation_result">Résultat : %s</string>
+    <string name="operation_time">Temps de calcul : %sms</string>
+</resources>
